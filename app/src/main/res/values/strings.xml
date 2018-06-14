@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OCR Text Extractor</string>
+    <string name="save">Save</string>
+    <string name="translate">Translate</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_pdf">PDF</string>
+</resources>
