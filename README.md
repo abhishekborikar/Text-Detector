@@ -36,12 +36,12 @@ Scan Library
 </li>
 
 # App View
- <img src="/screenshot/1openingScreen.png" width=250 height=375 alt="Home Screen"/>
- <center><b> Home Screen </b></center><br/>
+ <br><center><b> Home Screen </b></center></br>
+ <img src="/screenshot/1openingScreen.png" width=250 height=375/></br>
+ <center><b> Image Crop </b></center></br>
  <img src="/screenshot/3manualCropScreen.png" width=250 height=375/></br>
- <center><b> Image Crop </b></center><br/>
+ <center><b> Image to Text </b></center></br>
  <img src="/screenshot/5AfterTextExtraction.png" width=250 height=375/></br>
- <center><b> Image to Text </b></center><br/>
+ <center><b> Save file </b></center></br>
  <img src="/screenshot/6SavingFileWithSpecificName.png" width=250 height=375/></br>
- <center><b> Save file </b></center>
  
