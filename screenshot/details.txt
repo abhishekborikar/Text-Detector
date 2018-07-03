@@ -1,0 +1,11 @@
+OCR Text Extractor android app is used to recognize the text from documents or scanned documents.
+There are various processes involved in this. Initially the user is asked to capture or choose the image from gallery.
+Which is further processed with Digital Image Processing and further it is made to pass through neural networks which 
+extract text from document image. 
+Features:
+1. Extract Text from documents
+2. The text can be edited before saving
+3. The text is saved in text file.
+4. The text file can be converted into pdf file.
+5. Both text as well as pdf file can be shared with any available medium on mobile.
+6. Text file can be edited later or after saving and resave.
