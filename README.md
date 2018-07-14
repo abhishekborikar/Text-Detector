@@ -9,6 +9,9 @@ Convert images to text file
 Editable Text
 </li>
 <li>
+Generate Pdf of text document
+</li>
+<li>
 document management
 </li>
 <li>
